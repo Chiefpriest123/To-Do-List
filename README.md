@@ -3,7 +3,7 @@
 A sleek, functional To-Do List application built with vanilla web technologies. This project focuses on clean UI/UX and efficient task management using local storage.
 
 ## 🚀 Live Demo
-[View Live Project](https://your-username.github.io/your-repo-name/)
+https://chiefpriest123.github.io/To-Do-List/
 
 ## ✨ Features
 * **Add Tasks:** Quickly add new items to your list.
