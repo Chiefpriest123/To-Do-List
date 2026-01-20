@@ -17,3 +17,5 @@ https://chiefpriest123.github.io/To-Do-List/Todo.html
 * **JavaScript (ES6+):** DOM manipulation and local storage integration.
 
 ## 📸 Preview
+<img width="1016" height="487" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/628946a3-a317-439d-9379-b23d692a0842" />
+
